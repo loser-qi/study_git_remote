@@ -2,3 +2,4 @@ abc
 version2
 version4 branch1
 version5 branch1
+version6 remote_master
